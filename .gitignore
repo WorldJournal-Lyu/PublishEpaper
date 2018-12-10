@@ -1,0 +1,11 @@
+**/_*-Log
+**/PublishEpaper.CreateJson.ps1
+**/PublishEpaper.UploadJson.ps1
+**/PublishEpaper.Bucket.txt
+**/PublishEpaper.FtpDir.BK.txt
+**/PublishEpaper.FtpDir.LA.txt
+**/PublishEpaper.FtpDir.SE.txt
+**/PublishEpaper.FtpDir.SF.txt
+**/PublishEpaper.UploadJson.IpAddress.txt
+**/PublishEpaper.UploadJson.Password.txt
+**/PublishEpaper.UploadJson.Username.txt
